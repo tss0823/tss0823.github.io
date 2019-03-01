@@ -1,0 +1,8 @@
+title: 好记心笔头
+description: 三处，看好别人的长处，帮助别人的难处，记住别人的好处
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
